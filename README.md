@@ -1,5 +1,5 @@
 # Creditcard_finantial_dashbord
-Project Objective: - 
+**Project Objective: -** 
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
 Dataset :- Finantial Dataset
@@ -13,7 +13,7 @@ Import data to SQL database
 
 Import the data from Mysql Database
 
-Project Insights- Week 53 (31st Dec)
+**Project Insights-** Week 53 (31st Dec)
 
 WoW change:
 • Revenue increased by 28.8%
@@ -31,7 +31,6 @@ Overview YTD:
 • Total transaction amount is 46M
 
 • Male customers are contributing more in revenue 31M, female 26M
-
 
 • Blue & Silver credit card are contributing to 93% of overall transactions
 
